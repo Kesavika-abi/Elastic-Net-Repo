@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Prediction Result</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <div class="container">
+        <h1>Prediction Result</h1>
+        <p>The predicted campaign success amount is:</p>
+        <h2 style="color:#2a5298;">${{ prediction }}</h2>
+        <a href="/">Predict Again</a>
+    </div>
+</body>
+</html>
