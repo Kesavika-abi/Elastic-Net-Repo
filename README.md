@@ -62,25 +62,28 @@ http://127.0.0.1:5000/
 
 ### Use Cases
 
-- **Predicting crowdfunding campaign success before launch**
+- Predicting crowdfunding campaign success before launch
 
-- **Helping entrepreneurs and marketers optimize strategies**
+- Helping entrepreneurs and marketers optimize strategies
 
-- **Demonstrating Elastic Net Regression in business applications**
+- Demonstrating Elastic Net Regression in business applications
 
 ### Future Enhancements
 
-- **Integrate with real crowdfunding platform APIs for live predictions**
+- Integrate with real crowdfunding platform APIs for live predictions
 
-- **Allow comparison with Lasso and Ridge Regression models**
+- Allow comparison with Lasso and Ridge Regression models
 
-- **Deploy online via Heroku, Render, or similar platforms**
+- Deploy online via Heroku, Render, or similar platforms
 
 
-### Screenshots
+## Screenshots
+
+### Input Page
 
 ![input](input.png)
 
+### Result Page
 
 ![result](result.png)
 
